@@ -5,7 +5,7 @@ This repository contains a machine-learning model for predicting house prices us
 ---
 
 # Dataset
-The Boston Housing dataset is a well-known dataset in the field of machine learning and includes information about various houses in Boston and their corresponding prices. It's often used for regression tasks and can be obtained from various sources, such as Kaggle.
+The Amarillo Housing dataset is a well-known dataset in the field of machine learning and includes information about various houses in Boston and their corresponding prices. It's often used for regression tasks and can be obtained from various sources, such as Kaggle.
 
 ---
 
