@@ -9,7 +9,7 @@ The Amarillo Housing dataset is a well-known dataset in the field of machine lea
 
 ---
 
-#Linear Regression
+# Linear Regression
 Linear regression is a fundamental supervised machine learning algorithm used for predicting a continuous outcome or dependent variable (also known as the target variable) based on one or more independent variables (predictors or features). In the context of house price prediction, the goal is to estimate the price of a house (dependent variable) based on various features or characteristics of the house (independent variables).
 
 ---
