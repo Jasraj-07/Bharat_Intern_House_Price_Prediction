@@ -1,4 +1,4 @@
-# Bharat_Intern_House_Price_Prediction
+
 # Task 1 - House Price Prediction
 This repository contains a machine learning model for predicting house prices using linear regression. The project demonstrates how to create a simple yet effective linear regression model in Python to estimate house prices based on various features such as the number of rooms, crime rate, accessibility to highways, and more, using the Boston Housing dataset.
 
